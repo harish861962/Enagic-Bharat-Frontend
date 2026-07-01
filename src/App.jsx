@@ -5,7 +5,7 @@ import Slider from "./Components/Slider";
 import Products from "./Components/Products";
 import Office from "./Components/Office";
 import Footer from "./Components/Footer";
-import ProductDetails from "./Components/Productdetails";
+import ProductDetails from "./Components/ProductDetails";
 import Contact from "./Components/Contact";
 
 function Home() {
