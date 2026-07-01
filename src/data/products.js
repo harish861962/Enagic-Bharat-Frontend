@@ -1,7 +1,9 @@
-import k8 from "../assets/k8.jpg";
 import sd501 from "../assets/SD501_banner3.jpg";
-import anespa from "../assets/platinum-3.jpg";
+
 import ukon from "../assets/Super-501-3-1.jpg";
+
+import img2 from "../assets/Platinum-3.jpg"; 
+import img5 from "../assets/K8.jpg";
 
 export const products = [
   {
