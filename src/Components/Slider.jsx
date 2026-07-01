@@ -1,10 +1,10 @@
 import { useState, useEffect } from "react";
 
 import img1 from "../assets/all-product.png";
-import img2 from "../assets/platinum-3.jpg";
 import img3 from "../assets/Super-501-3-1.jpg";
 import img4 from "../assets/SD501_banner3.jpg";
-import img5 from "../assets/k8.jpg";
+import img2 from "../assets/Platinum-3.jpg"; 
+import img5 from "../assets/K8.jpg";
 
 const images = [img1, img2, img3, img4, img5];
 
